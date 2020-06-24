@@ -7,14 +7,26 @@ We as a society live in dangerous times. Often having bad experiences being arou
 | Tech                                                    | Description                              |
 | ------------------------------------------------------- | ---------------------------------------- |
 | [React Native](https://reactnative.dev/)                | Tool for createing native apps.          |
+| [Jest](https://jestjs.io/)                              | Testing                                  |
+| [Eslint](https://eslint.org/)                           | Linter                                   |
+| [Prettier](https://prettier.io/)                        | Code formatter                           |
 
 ## Screenshots :iphone:
 
 ## Installation 💾
+git clone https://github.com/mikolajborowski/safety
+npm install
+npx react-native start
+npx react-native run-android OR npx react-native run-ios
 
 ## Available scripts :memo:
-| Command                   | Description                   |     |
-| ------------------------- | ----------------------------- | --- |
+| Command                   | Description                   |
+| ------------------------- | ----------------------------- |
+| android                   | react-native run-android      |
+| ios                       | react-native run-ios          |
+| start                     | react-native start            |
+| test                      | jest                          |
+| lint                      | eslint .                      |
 
 ## Contributors :metal:
 
