@@ -15,8 +15,11 @@ We as a society live in dangerous times. Often having bad experiences being arou
 
 ## Installation 💾
 git clone https://github.com/mikolajborowski/safety
+
 npm install
+
 npx react-native start
+
 npx react-native run-android OR npx react-native run-ios
 
 ## Available scripts :memo:
