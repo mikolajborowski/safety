@@ -1,5 +1,6 @@
 
 ## Project Overview 🎉
+We as a society live in dangerous times. Often having bad experiences being around bad neighborhoods, or going out with people we don't trust. The idea of this app is simple, create an app that with help people that feel in danger. The basic concept is to give functionality that would send an SMS, with geolocation of your phone by clicking a few times on your power button, to the phone number of your choice, with a short message. The rest of the functionality will be created during development.
 
 ## Tech/framework used 🔧
 
@@ -7,13 +8,15 @@
 | ------------------------------------------------------- | ---------------------------------------- |
 | [React Native](https://reactnative.dev/)                | Tool for createing native apps.          |
 
-## Screenshots 📺
+## Screenshots :iphone:
 
 ## Installation 💾
 
-## Available scripts
+## Available scripts :memo:
+| Command                   | Description                   |     |
+| ------------------------- | ----------------------------- | --- |
 
-## Contributors
+## Contributors :metal:
 
 <table>
   <tr>
@@ -33,6 +36,6 @@
 
 ## License 🔱
 
-Under license (MIT, Apache etc)
+Under license (MIT)
 
 MIT © [Mikołaj Borowski]()
